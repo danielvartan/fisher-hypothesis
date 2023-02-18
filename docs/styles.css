@@ -1,0 +1,8 @@
+.navbar-default {
+    background-color: #000000;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffFFFf;
+}
