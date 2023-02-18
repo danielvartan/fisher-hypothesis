@@ -145,7 +145,7 @@ plot_line <- function(data) {
             values = c("red", "blue"),
             breaks = c("SELIC (target)", "IPCA (12 months)")
             ) +
-        ggplot2::labs(x = "\nDate", y = "Value (%)\n") +
+        ggplot2::labs(x = "\nMonth", y = "Value (%)\n") +
         ggplot2::theme(legend.position = "top")
     
     print(plot)
