@@ -24,7 +24,7 @@ The analysis follows the program outlined by Hadley Wickham in the book [R for D
 ```{r}
 #| label = "Hadley Wickham's data science program",
 #| fig.align = "center",
-#| out.width = "50%",
+#| out.width = "75%",
 #| echo = FALSE
 
 knitr::include_graphics("https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png")
